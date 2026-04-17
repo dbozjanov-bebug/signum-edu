@@ -1,0 +1,1 @@
+{"name": "signum-edu", "version": "1.0.0", "private": true, "workspaces": ["packages/*"], "scripts": {"test": "echo 'No tests specified' && exit 0"}}
